@@ -1,0 +1,6 @@
+1.In github readme file is Creted whose extension is .md()[DMarkDown)
+2.In This File we have to define what we are going in this project directory.
+3.For title use # symbol.
+4.First line which initialize your repo is:
+## git init 
+## git status -->This Command Check which file is traked or which file is untraked.
